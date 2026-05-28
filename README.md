@@ -71,7 +71,7 @@ The motor driver controls the motors accordingly, enabling the robot to move for
 ---
 
 ## Circuit Diagram
-![Robot Car](robotcar.png)
+![Robot Car](wifirobot.png)
 
 ## Author
 Sauhard Agnihotri
