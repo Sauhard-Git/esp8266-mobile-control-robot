@@ -24,7 +24,6 @@ The project demonstrates the fundamentals of IoT, wireless communication, motor 
 - Wheels
 - Jumper Wires
 - Battery Pack
-- Breadboard
 
 ---
 
@@ -39,13 +38,10 @@ The motor driver controls the motors accordingly, enabling the robot to move for
 
 | Component | ESP8266 Pin |
 |-----------|-------------|
-| IN1 | D1 |
-| IN2 | D2 |
-| IN3 | D3 |
-| IN4 | D4 |
-| ENA | D5 |
-| ENB | D6 |
-
+| IN1 | D5 |
+| IN2 | D6 |
+| IN3 | D7 |
+| IN4 | D1 |
 ---
 
 ## Applications
