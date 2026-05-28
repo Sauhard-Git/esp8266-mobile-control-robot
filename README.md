@@ -1,2 +1,81 @@
-# esp8266-mobile-control-robot
-Mobile app controlled robot car using ESP8266 NodeMCU and L298N motor driver.
+# Mobile App Controlled Robot Car using ESP8266
+
+## Overview
+This project is a Mobile App Controlled Robot Car developed using ESP8266 NodeMCU and L298N Motor Driver. The robot can be controlled wirelessly through a mobile application over WiFi, allowing real-time movement in different directions.
+
+The project demonstrates the fundamentals of IoT, wireless communication, motor interfacing, and embedded systems.
+
+---
+
+## Features
+- Wireless control using mobile application
+- Real-time robot movement
+- WiFi-based communication
+- Smooth directional control
+- Beginner-friendly IoT and robotics project
+
+---
+
+## Components Used
+- ESP8266 NodeMCU
+- L298N Motor Driver
+- BO Motors
+- Robot Chassis
+- Wheels
+- Jumper Wires
+- Battery Pack
+- Breadboard
+
+---
+
+## Working Principle
+The ESP8266 NodeMCU connects to a mobile application through WiFi communication. Commands sent from the mobile app are processed by the ESP8266 and forwarded to the L298N motor driver.
+
+The motor driver controls the motors accordingly, enabling the robot to move forward, backward, left, and right in real time.
+
+---
+
+## Pin Configuration
+
+| Component | ESP8266 Pin |
+|-----------|-------------|
+| IN1 | D1 |
+| IN2 | D2 |
+| IN3 | D3 |
+| IN4 | D4 |
+| ENA | D5 |
+| ENB | D6 |
+
+---
+
+## Applications
+- Wireless robotics
+- Smart vehicle systems
+- IoT-based automation
+- Educational robotics projects
+- Remote-controlled systems
+
+---
+
+## Technologies Used
+- Arduino IDE
+- ESP8266 WiFi Module
+- Embedded C/C++
+- IoT Fundamentals
+
+---
+
+## Future Improvements
+- Obstacle avoidance system
+- Camera integration
+- Voice control
+- GPS tracking
+- Live monitoring system
+
+---
+
+## Circuit Diagram
+![Robot Car](robotcar.png)
+
+## Author
+Sauhard Agnihotri
