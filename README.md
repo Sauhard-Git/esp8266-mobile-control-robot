@@ -80,8 +80,7 @@ The motor driver controls the motors accordingly, enabling the robot to move for
 
 Watch the live working demo of the ESP8266 WiFi Controlled Robot:
 
-[▶ Watch Demo](https://github.com/Sauhard-Git/esp8266-mobile-control-robot/blob/main/WIFIROBO.mp4)
-
+https://github.com/user-attachments/assets/b69b3a55-76c8-405f-bb28-a98f4d6a661a
 
 ## Author
 Sauhard Agnihotri
